@@ -143,7 +143,7 @@
     UIImage * elep_b = [UIImage imageNamed: [NSString stringWithFormat:@"elep_b.png"]];
     UIImage * knight_b = [UIImage imageNamed: [NSString stringWithFormat:@"knight_b.png"]];
     UIImage * king_b = [UIImage imageNamed: [NSString stringWithFormat:@"king_b.png"]];
-    UIImage * queen_b = [UIImage imageNamed: [NSString stringWithFormat:@"queen_b.jpg"]];
+    UIImage * queen_b = [UIImage imageNamed: [NSString stringWithFormat:@"queen_b.png"]];
     
     UIImage * rook_w = [UIImage imageNamed: [NSString stringWithFormat:@"rook_w.png"]];
     UIImage * elep_w = [UIImage imageNamed: [NSString stringWithFormat:@"elep_w.png"]];
